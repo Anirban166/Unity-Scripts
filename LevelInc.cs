@@ -11,3 +11,4 @@ public class menu : MonoBehaviour
     }
 }
 
+//In a similar approach decrement of a level scene can be done too, altough its rarely applicable ; perhaps for games with recursive levels.
