@@ -36,3 +36,4 @@ public class UIPulse : MonoBehaviour {
 		image.color = colorPattern.Evaluate (pct);
 	}
 }
+
