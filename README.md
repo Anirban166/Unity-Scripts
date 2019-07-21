@@ -1,9 +1,4 @@
 # Unity-Scripts
 
-(1) Player-Obstacle collision detection
-
-(2) Minimap linking with camera
-
-(3) Game Manager
-
-(4) UI Fade-away
+C# scripts for following aspects -
+Gameflow / Hierarchy-Level Management / UI / Character controlling / Collision detection / Camera-related activities
