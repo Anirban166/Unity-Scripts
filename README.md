@@ -1,2 +1,9 @@
 # Unity-Scripts
-Scripts written in C# for Unity Games
+
+(1) Player-Obstacle collision detection
+
+(2) Minimap linking with camera
+
+(3) Game Manager
+
+(4) UI Fade-away
