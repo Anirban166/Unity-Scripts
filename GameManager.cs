@@ -15,7 +15,6 @@ public class GameManager : MonoBehaviour
             
             Invoke("Restart",resdelay);
         }
-
     }
     public void CompleteLevel()
     {
@@ -26,5 +25,4 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 
     }
-
 }
