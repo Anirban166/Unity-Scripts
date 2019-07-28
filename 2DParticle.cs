@@ -11,7 +11,7 @@ public class particle : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () 
-  {
+        {
 		rb.velocity = transform.right * speed;
 	}
 
