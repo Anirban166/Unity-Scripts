@@ -16,3 +16,4 @@ public class minimap : MonoBehaviour
 }
 
 //Link with minimap camera (set a canvas/UI)
+ 
