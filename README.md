@@ -1,4 +1,3 @@
-Content -
 ```
 Gameflow / Level Management / UI / Character controlling / Collision detection / Camera-related activities 
 ```
