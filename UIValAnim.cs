@@ -68,5 +68,5 @@ public class UIValueAnimator : MonoBehaviour {
 
 		finishTime = Time.time + animateTime;
 		curve = AnimationCurve.EaseInOut (Time.time, GetCurrentValue(), finishTime, endVal);
-	}
+	} 
 }
