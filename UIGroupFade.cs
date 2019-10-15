@@ -94,4 +94,4 @@ public class UIGroupFader : MonoBehaviour {
 	}
 }
 
-//child of this root will be affected.
+//child of this root will be affected. 
