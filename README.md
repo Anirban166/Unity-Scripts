@@ -2,7 +2,8 @@
 ```
 Gameflow / Level Management / UI / Character controlling / Collision detection / Camera-related activities / Events / Interface / Exceptions / Threads
 ```
-In addition follow up 'Visual Scripting', a feature of Unity'19 - <br>
+In addition follow up <B>Visual Scripting</B>, a feature of Unity'19 - <br>
+
 <img src="Images/vs.png" width="100%">
 
 
