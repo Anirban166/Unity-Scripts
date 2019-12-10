@@ -80,5 +80,5 @@ class Rijndael
         }
         return plaintext;
     }
-}
+} 
 }
