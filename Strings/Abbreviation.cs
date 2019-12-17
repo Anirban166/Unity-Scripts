@@ -10,7 +10,7 @@ class abbreviation
         Console.WriteLine("Enter a String :");
         str=Console.In.ReadLine();
     }
-    public void abbre()
+    public void abbreviate()
     {
         char[] c, result;
         int j = 0;
@@ -36,6 +36,6 @@ class abbreviation
     {
         abbreviation obj=new abbreviation();
         obj.readdata();
-        obj.abbre();
+        obj.abbreviate();
     }
 }
