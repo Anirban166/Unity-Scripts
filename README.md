@@ -1,15 +1,16 @@
 <p align = "right">
 <img src = "Images/Unity_Logo.png" align="right"
-     alt="Language used : 100% C#" width="500" height="300">
+     alt="Language used : 100% C#" width="50%" height="auto">
 </p>
 
-## Scripts <img src = "https://img.shields.io/badge/C%23-100%25-brightgreen?style=flat"> <img src = "https://img.shields.io/badge/-Student Ambassador-brightgreen?style=flat&logo=unity">
+## Contents <img src = "https://img.shields.io/badge/C%23-100%25-brightgreen?style=flat"> <img src = "https://img.shields.io/badge/-Student Ambassador-brightgreen?style=flat&logo=unity">
 
-<kbd>C</kbd> <a href="/Camera">Camera</a> • <a href="/Character Controlling">Character Controlling</a> • <a href="/Collision Detection">Collision Detection</a> <br>
+<kbd>C</kbd> <a href="/Camera">Camera</a> • <a href="/Character Controlling">Character Controlling</a> <br>
+<kbd>C</kbd><kbd>D</kbd> <a href="/Collision Detection">Collision Detection</a> <br>
 <kbd>E</kbd> <a href="/Events">Events</a> • <a href="/Exceptions">Exceptions</a> <br>
 <kbd>G</kbd> <a href="/Gameflow">Gameflow</a> <br>
 <kbd>I</kbd> <a href="/Interface">Interface</a> <br>
-<kbd>L</kbd> <a href="/Level Management">Level Management</a> <br>
+<kbd>L</kbd><kbd>M</kbd> <a href="/Level Management">Level Management</a> <br>
 <kbd>M</kbd> <a href="/Misc">Misc</a> <br>
 <kbd>R</kbd> <a href="/Raycasts">Raycasts</a> <br>
 <kbd>S</kbd> <a href="/Strings">Strings</a> <br>
