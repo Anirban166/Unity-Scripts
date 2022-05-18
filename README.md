@@ -1,5 +1,5 @@
 <p align = "right">
-<img src = "Images/TransparentUnityLogo.png" align="right"
+<img src = "Images/Unity Scripts Logo.png" align="right"
      alt="Language used : 100% C#" width="50%" height="auto">
 </p>
 
